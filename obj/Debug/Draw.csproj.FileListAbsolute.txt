@@ -1,0 +1,45 @@
+C:\Users\ICO\Desktop\Project\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\ICO\Desktop\Project\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\dell\Desktop\CGProject\bin\Debug\Draw.exe
+C:\Users\dell\Desktop\CGProject\bin\Debug\Draw.pdb
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.exe
+C:\Users\dell\Desktop\CGProject\obj\Debug\Draw.pdb
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\bin\Debug\Draw.exe
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\bin\Debug\Draw.pdb
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.Properties.Resources.resources
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.src.GUI.Dialog.resources
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.MainForm.resources
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.exe
+D:\Program codes-Informatic course\Пловдивски Университет - материали\Компютърна графика\CGProject_Final\obj\Debug\Draw.pdb
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.exe
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.pdb
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\bin\Debug\Draw.exe
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\bin\Debug\Draw.pdb
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.MainForm.resources
+C:\Users\ddd\Desktop\Компютърна графика\CGProject_Final\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\ddd\Desktop\CGProject_Final\obj\Debug\Draw.exe
+C:\Users\ddd\Desktop\CGProject_Final\obj\Debug\Draw.pdb
